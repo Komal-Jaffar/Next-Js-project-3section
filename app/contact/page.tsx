@@ -1,14 +1,14 @@
 
 export default function Contact(){
     return(
-       <div className="bg-red-300 fontsize-2">
+       <div>
 
           
-  <h1> <b>Hye!</b> <br></br>
+  <h1 style={{background:'brown'}}> <b>Hye!</b> <br></br>
          <i>   Here you contact me please in Social Account!<br></br>
          Also contact on Whatsapp number <br></br>
         <br></br>
-        <div className="bg-orange-300">
+        <div style={{background:'orange'}}>
         <b> <u> THANK YOU! </u></b> <br></br>
         <u>Have a nice Day.. :)</u>
         </div>

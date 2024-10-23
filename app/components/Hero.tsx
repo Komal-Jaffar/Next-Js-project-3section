@@ -2,8 +2,8 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='bg-yellow-500 text-blue-900'>
-      <div>
+    <div>
+      <div style={{background:'yellow'}}>
       <br></br>
       <b> WEB DEVELOPER</b><br></br>
    Web development is the act of building, creating and maintaining websites. The field encompasses

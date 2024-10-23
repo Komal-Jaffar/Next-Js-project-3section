@@ -1,7 +1,7 @@
 export default function About(){
     return(
         <div>
-        <div className="bg-purple-300 ">   <i> I'm leaning about Next js and also learning programing in Governer House 
+        <div style={{background:'pink'}}>   <i> I'm leaning about Next js and also learning programing in Governer House 
              Under the Supervision of <b>Sir Hamza-Alvi </b> ..<br></br>
            
         <br></br> I want to express my heartfelt gratitude to my teacher, who has been instrumental 

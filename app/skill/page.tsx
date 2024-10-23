@@ -1,7 +1,7 @@
 export default function Skill(){
     return(
         <div>
-         <div  className="bg-blue-600"> <i><b>What are web developer skills?
+         <div  style={{background:'green'}}> <i><b>What are web developer skills?
            Web developer skills refer to the specific abilities 
            needed to get hired and successfully perform in a web
             developer role. Having these skills in abundance can help
